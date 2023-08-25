@@ -144,7 +144,8 @@ body{
     height: 24px;
     width: 24px;
     border-radius: 50px;
-    background: #8b06f1;
+    background: #CFD4ED;
+    border: 1px;
     -webkit-appearance: none;
     -moz-appearance: none;
     -o-appearance: none;
@@ -156,7 +157,7 @@ body{
     gap: 10px; 
 }
 .Our-list input[type="checkbox"]:checked:after {
-    content : url(../Vector.svg);
+    content : url(../img/fi_check.png);
     
 }
 .Box_teks{
